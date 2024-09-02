@@ -1,5 +1,6 @@
 # 💫 About Me:
-Merhaba, ben Eren Koçakgöl. 2000 yılında Batman'da doğdum. Aslen Kahramanmaraşlıyım. Bir tıp fakültesinde 4. sınıf öğrencisi, aynı zamanda web geliştiricisiyim. Django, Python, Bootstrap kullandığım temel teknolojilerdir. Web geliştirme hizmetleri vermekteyim. İletişim için E-Posta atabilirsiniz => erenkocakgol@icloud.com
+Merhaba, ben Eren Koçakgöl. 2000 yılında Batman'da doğdum. Aslen Kahramanmaraşlıyım. Bir tıp fakültesinde 4. sınıf öğrencisi, aynı zamanda web geliştiricisiyim. Django, Python, Bootstrap kullandığım temel teknolojilerdir. Web geliştirme hizmetleri vermekteyim. 
+İletişim için E-Posta atabilirsiniz => erenkocakgol@icloud.com
 
 
 ## 🌐 Socials:
